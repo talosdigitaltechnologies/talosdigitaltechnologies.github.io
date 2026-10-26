@@ -48,6 +48,9 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 1.75rem 0; }
 .home { padding-top: 2.5rem; }
 .home h1 { letter-spacing: 0.22em; font-size: 2.1rem; }
 .cards { display: grid; gap: 0.75rem; margin-top: 1.75rem; }
+.about { margin-top: 2.5rem; }
+.features { padding-left: 1.2rem; }
+.features li { margin: 0.5rem 0; }
 .card {
   display: block; background: var(--card); border: 1px solid var(--line); border-radius: 1.25rem;
   padding: 1.1rem 1.25rem; text-decoration: none;
